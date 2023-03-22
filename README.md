@@ -7,7 +7,7 @@ This is a boilerplate for frontend projects using React and Typescript, tooled b
 - Commitzen (Commit Message Standard)
 - Typescript ESLint (Typescript/Javascript code rules)
 
-PNPM is recommended to use as package management tool
+PNPM recommended 
 
 ## Authors
 
