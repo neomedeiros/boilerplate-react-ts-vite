@@ -36,3 +36,22 @@ React + Vite + Typescript Boilerplate with pnpm:
 ```bash
   pnpm run build
 ```
+
+To use this project as a quickstart for your projects:
+
+- Clone this repo
+
+- Change your remote repo URL:
+
+```bash
+git remote -v
+git remote set-url origin <your repo URL>
+```
+
+- Boilerplate word and related mentions are referenced in:
+
+-> package.json (name)
+-> README.md
+-> App.tsx
+
+You can now start coding
