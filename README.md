@@ -1,6 +1,6 @@
 # React + Vite + Typescript Boilerplate
 
-This is a boilerplate for frontend projects using React \_ Typescript, tooled by Vite. Some other tools are included:
+This is a boilerplate for frontend projects using React and Typescript, tooled by Vite. Some other tools are included:
 
 - Prettier (Code Formatting)
 - Husky (Git Hooks)
