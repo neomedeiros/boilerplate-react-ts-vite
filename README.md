@@ -51,7 +51,9 @@ git remote set-url origin <your repo URL>
 - Boilerplate word and related mentions are referenced in:
 
 package.json (name)
+
 README.md
+
 App.tsx
 
 You can now start coding
